@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Derek-n00192978
+- 👋 Hi, I’m @Derek Reid
+-     I am a student of IADT and that is where n00192978 comes from.
 - 👀 I’m interested in cycling
-- 🌱 I’m currently learning Mobile Computing and FrontEnd Development
-- 💞️ I’m looking to collaborate on future projects
+- 🌱 I’m currently learning FrontEnd and BackEnd Development
+- 💞️ My Offical GitHub https://github.com/Derek-n00192978
 - 📫 How to reach me n00192978@student.iadt.ie
 
 <!---
